@@ -1,6 +1,9 @@
 # metaTools
 A suite of Perl scripts for metagenomics
-
+<table>
+<tr><td>kaiju_collect.pl<\td><td><\td><\tr>
+<tr><td>pycrust2_prep.pl<\td><td><\td><\tr>
+<\table>
 <b><u>kaiju section:</b></u>
 
 <b><i>kaiju_collect.pl</i></b>: collects kaiju predictions at different ranks (output of kaiju2table), for every available file, creating convenient samplexrank tables.  
