@@ -5,5 +5,5 @@ A suite of Perl scripts for metagenomics
 
 <table>
 <tr><td>kaiju_collect.pl</td><td>Collects kaiju predictions at different ranks (output of kaiju2table), for every available file, creating convenient samplexrank tables.</td></tr>
-<tr><td>pycrust2_prep.pl<\td><td>Converts the output of kaiju.collect.pl into files needed for running pycrust2.</td></tr>
+<tr><td>pycrust2_prep.pl</td><td>Converts the output of kaiju.collect.pl into files needed for running pycrust2.</td></tr>
 </table>
